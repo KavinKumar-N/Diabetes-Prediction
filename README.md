@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Welcome to KavinKumar profile! <a href="https://github.com/KavinKumar-N/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://www.google.com/imgres?q=animated%20gif%20programming%20gif&imgurl=https%3A%2F%2Fi.gifer.com%2FJXA0.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&docid=Mqj-hs6UwqfBHM&tbnid=yx8vYQIM_zYYRM&vet=12ahUKEwiI1c3H3L-IAxVDwTgGHQuvLCEQM3oECEgQAA..i&w=400&h=300&hcb=2&ved=2ahUKEwiI1c3H3L-IAxVDwTgGHQuvLCEQM3oECEgQAA" height=15% width=40% align="right">
+### I'm a...   <img src="https://www.google.com/imgres?q=animated%20gif%20programming%20gif&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F0*IjwqslkWZDHTMK9Y.gif&imgrefurl=https%3A%2F%2Fwakeupcoders.medium.com%2Fpython-programming-fundamentals-44198e7d62d4&docid=xJzmhBU4sLyGnM&tbnid=eirAP85llrDjwM&vet=12ahUKEwiI1c3H3L-IAxVDwTgGHQuvLCEQM3oECDMQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiI1c3H3L-IAxVDwTgGHQuvLCEQM3oECDMQAA" height=15% width=40% align="right">
 
 
 * Future Data Scientist 
