@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Welcome to KavinKumar profile! <a href="https://github.com/KavinKumar-N/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s" height=15% width=40% align="right">
+### I'm a...   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWPkWk0zTnvBIzh1hHfs6IUEkhwLu6ociWw&s" height=15% width=40% align="right">
 
 
 * Future Data Scientist 
