@@ -100,16 +100,8 @@ $ streamlit run main.py
 </br>
 
 
-## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (kavinkumarofficial@gmail.com)
-The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
 
 
-## Future enhancement
-
-Replacing missing cells with cell therapy
-
-Cell therapy is one of the biggest hopes for developing a cure for diabetes, especially for type 1 diabetes. Replacing the missing insulin-producing cells could potentially recover normal insulin production and cure patients.
 
 
 # Diabetes Prediction Flask Web App
