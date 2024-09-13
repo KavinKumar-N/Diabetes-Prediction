@@ -129,6 +129,15 @@ The web app utilizes a machine learning model, specifically an ensemble model co
 ## Model
 
 The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accuracy.
+
+## Future enhancement
+
+Replacing missing cells with cell therapy
+
+Cell therapy is one of the biggest hopes for developing a cure for diabetes, especially for type 1 diabetes. Replacing the missing insulin-producing cells could potentially recover normal insulin production and cure patients.
+
+
+
 ## Acknowledgements
 If you have any doubt or want to contribute feel free to hit me up on (kavinkumarnofficial@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
