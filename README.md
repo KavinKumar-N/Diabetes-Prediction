@@ -11,7 +11,7 @@
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/kavinkumarnofficial)<br>
 📬 How to reach me: [kavinkumarnoffical@gmail.com](mailto:kavinkumarnoffcial@gmail.com)<br>
-📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Hirthick%20official.pdf)<br>
+
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
@@ -28,15 +28,6 @@ _(click the button!)_
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KavinKumar-N) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:kavinkumarnofficial@gmail.com)
 
 -------------------------------------------------------------------------------------------------------
-### I'm Completed on Right Now
-#### Completed Conference Papers
-[![Deep Learning Conference Papers](https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-
-1. **Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters**  
-   ➤ [Link to Paper](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-
-2. **Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification**  
-   ➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
 
 
 ### I'm working on Right Now
